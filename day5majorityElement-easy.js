@@ -1,5 +1,8 @@
 /**
- * 169. Majority Element
+ * 
+Follow-up: Could you solve the problem in linear time and in O(1) space?
+
+ 169. Majority Element
 Given an array nums of size n, return the majority element.
 
 The majority element is the element that appears more than ⌊n / 2⌋ times.
@@ -24,28 +27,27 @@ n == nums.length
 -109 <= nums[i] <= 109
  
 
-Follow-up: Could you solve the problem in linear time and in O(1) space?
  */
 
 // Solution 1
-// var majorityElement = function(nums) {
-//     let candidate = null; // Holds the possible majority element
-//     let count = 0;        // Counts the occurrences of the candidate
+var majorityElement = function(nums) {
+    let candidate = null; // Holds the possible majority element
+    let count = 0;        // Counts the occurrences of the candidate
 
-//     for (let i = 0; i < nums.length; i++) {
-//         if (count === 0) {
-//             candidate = nums[i]; // Update candidate when count is 0
-//         }
+    for (let i = 0; i < nums.length; i++) {
+        if (count === 0) {
+            candidate = nums[i]; // Update candidate when count is 0
+        }
 
-//         // Increment or decrement the count based on the current number
-//         count += (nums[i] === candidate) ? 1 : -1;
+        // Increment or decrement the count based on the current number
+        count += (nums[i] === candidate) ? 1 : -1;
 
-//         // Early exit if we find a majority
-//         if (count > (nums.length / 2)) break;
-//     }
+        // Early exit if we find a majority
+        if (count > (nums.length / 2)) break;
+    }
 
-//     return candidate; // The majority element
-// }
+    return candidate; // The majority element
+}
 
 
 // sloution 2: with hasmap
