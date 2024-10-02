@@ -40,6 +40,7 @@ Here is a list of challenges and links to their solutions:
 3. [Remove Duplicates](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day3removeDuplicate-easy.js)
 4. [Remove Duplicate from Array](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day4removeDuplicates-medium.js)
 5. [Majority Elements](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day5majorityElement-easy.js)
+6. [Rotate Array](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day6rotate-medium.js)
 
 
 
