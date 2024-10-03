@@ -17,13 +17,17 @@ where k is non-negative.
 
  * @return {void} Do not return anything, modify nums in-place instead.
  
+    var rotate = function(nums, k){
+    // here your solution 
+    }
+
 */
 
 
 // this the best ===========Solution 1
 
 // Function to swap elements between two indices in the array
-
+var rotate = function(nums, k) {
 const swap = function (startIndex, lastIndex) {
 
     // Continue swapping until the two indices meet
@@ -47,7 +51,7 @@ swap(0, k - 1);
 
 // Step 3: Reverse the remaining elements to complete the rotation
 swap(k, len);
-
+}
 // O(n) time complexity and O(1) space 
 
 
