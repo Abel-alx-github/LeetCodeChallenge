@@ -42,7 +42,7 @@ Here is a list of challenges and links to their solutions:
 5. [Majority Elements](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day5majorityElement-easy.js)
 6. [Rotate Array](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day6rotate-medium.js)
 7. [Best time to buy and sell stock](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day7bestTimeToBuyAndSellStock-easy.js)
-
+8, [Best time to buy and sell stock II](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day8bestTimeToBuyAndSell-medium.js)
 
 ## Resources
 
