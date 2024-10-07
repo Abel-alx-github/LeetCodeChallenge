@@ -44,6 +44,7 @@ Here is a list of challenges and links to their solutions:
 7. [Best time to buy and sell stock](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day7bestTimeToBuyAndSellStock-easy.js)
 8. [Best time to buy and sell stock II](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day8bestTimeToBuyAndSell-medium.js)
 9. [Jump Game](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day9jumpGame-medium.js)
+10. [Jump Game II](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day10jumpGame-II-medium.js)
 11. [H index](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day11hIndex-medium.js) 
 ## Resources
 
