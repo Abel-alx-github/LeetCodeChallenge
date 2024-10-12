@@ -48,6 +48,7 @@ Here is a list of challenges and links to their solutions:
 11. [H index](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day11hIndex-medium.js)
 12. [Insert Delete getRandom O(1)](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day12insertDeleteGetRandom-medium.js)
 13. [Product of Array except self](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day13productOfArrayExceptSelf-medium.js)
+14. [Gas Station](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day14gasStation-medium.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
