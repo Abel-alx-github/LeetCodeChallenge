@@ -50,6 +50,7 @@ Here is a list of challenges and links to their solutions:
 13. [Product of Array except self](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day13productOfArrayExceptSelf-medium.js)
 14. [Gas Station](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day14gasStation-medium.js)
 15. [Candy](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day15Candy-hard.js)
+16. [Trapping Rain Water](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day16trappingRainWater-hard.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
