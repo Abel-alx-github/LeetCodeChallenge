@@ -52,6 +52,7 @@ Here is a list of challenges and links to their solutions:
 15. [Candy](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day15Candy-hard.js)
 16. [Trapping Rain Water](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day16trappingRainWater-hard.js)
 17. [Roman To Integer](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day17RomanToInteger-easy.js)
+18. [Integer To Roman](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day18integerToRoman-medium.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
