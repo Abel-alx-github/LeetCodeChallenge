@@ -54,6 +54,7 @@ Here is a list of challenges and links to their solutions:
 17. [Roman To Integer](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day17RomanToInteger-easy.js)
 18. [Integer To Roman](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day18integerToRoman-medium.js)
 19. [Length Of Last Word](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day19lengthOfLastWord-easy.js)
+20. [Longest Common Prefix](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day20longestCommonPrefix-easy.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
