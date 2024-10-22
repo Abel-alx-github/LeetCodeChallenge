@@ -58,6 +58,7 @@ Here is a list of challenges and links to their solutions:
 21. [Revers Words In A Sting](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day21reverseWordsInString-medium.js)
 22. [Zigzag Conversion](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day22zigzagConversion-medium.js)
 23. [Find Indexx Of The First Occurence of String](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day23findIndexOfTheFirstOcuurencString-easy.js)
+24. [text justification](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day24textJustification-hard.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
