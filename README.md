@@ -57,6 +57,7 @@ Here is a list of challenges and links to their solutions:
 20. [Longest Common Prefix](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day20longestCommonPrefix-easy.js)
 21. [Revers Words In A Sting](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day21reverseWordsInString-medium.js)
 22. [Zigzag Conversion](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day22zigzagConversion-medium.js)
+23. [Find Indexx Of The First Occurence of String](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day23findIndexOfTheFirstOcuurencString-easy.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
