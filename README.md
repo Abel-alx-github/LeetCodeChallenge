@@ -60,6 +60,7 @@ Here is a list of challenges and links to their solutions:
 23. [Find Indexx Of The First Occurence of String](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day23findIndexOfTheFirstOcuurencString-easy.js)
 24. [text justification](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day24textJustification-hard.js)
 25. [Valid Palindrome](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day25validPalindrom-easy.js)
+26. [isSubsequence](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day26isSubsequence-easy.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
