@@ -61,6 +61,7 @@ Here is a list of challenges and links to their solutions:
 24. [text justification](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day24textJustification-hard.js)
 25. [Valid Palindrome](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day25validPalindrom-easy.js)
 26. [isSubsequence](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day26isSubsequence-easy.js)
+27. [Two Sum II - Input Array Is Sorted](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day27twoSumII-medium.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
