@@ -62,6 +62,7 @@ Here is a list of challenges and links to their solutions:
 25. [Valid Palindrome](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day25validPalindrom-easy.js)
 26. [isSubsequence](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day26isSubsequence-easy.js)
 27. [Two Sum II - Input Array Is Sorted](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day27twoSumII-medium.js)
+28. [Container With Most Water](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day28containerWithMostWater-medium.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
