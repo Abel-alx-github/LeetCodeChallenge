@@ -63,6 +63,7 @@ Here is a list of challenges and links to their solutions:
 26. [isSubsequence](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day26isSubsequence-easy.js)
 27. [Two Sum II - Input Array Is Sorted](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day27twoSumII-medium.js)
 28. [Container With Most Water](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day28containerWithMostWater-medium.js)
+29. [3Sum](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day29threeSum-medium.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
