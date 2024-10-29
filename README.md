@@ -64,6 +64,7 @@ Here is a list of challenges and links to their solutions:
 27. [Two Sum II - Input Array Is Sorted](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day27twoSumII-medium.js)
 28. [Container With Most Water](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day28containerWithMostWater-medium.js)
 29. [3Sum](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day29threeSum-medium.js)
+30. [Minimun Size SubArray Sum](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day30minimumSizeSubarraySum-medium.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
