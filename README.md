@@ -66,6 +66,7 @@ Here is a list of challenges and links to their solutions:
 29. [3Sum](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day29threeSum-medium.js)
 30. [Minimun Size SubArray Sum](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day30minimumSizeSubarraySum-medium.js)
 31. [Longest Substring Without repeating Characters](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day31longestSubstringWithoutRepeating-medium.js)
+32. [Substring With Concatenation Of All Words](https://github.com/Abel-alx-github/LeetCodeChallenge/blob/main/day32substringWithConcatenationOfAllWords-hard.js)
 ## Resources
 
 - [LeetCode](https://leetcode.com)
